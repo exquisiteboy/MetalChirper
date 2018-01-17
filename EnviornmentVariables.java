@@ -2,9 +2,9 @@ package util;
 
 public class EnviornmentVariables {
 	public static final String DB_URL  = "jdbc:mysql://localhost:3306/metalchirper";
-	public static final String DB_USER = "mchirper_owner";
-	public static final String DB_NAME = "metalchirper";
-	public static final String DB_PASS = "11223344";
+	public static final String DB_USER = "";
+	public static final String DB_NAME = "";
+	public static final String DB_PASS = "";
 	
 	public static final String FOLLOWER_LIMIT = "/followers/ids";
     public static final String FAVORITES_LIMIT= "/favorites/list";
